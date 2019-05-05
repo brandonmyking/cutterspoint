@@ -1,0 +1,26 @@
+{
+  "name": "cutters_point",
+  "version": "1.0.0",
+  "description": "Cutters Point Coffee webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonmyking/cutterspoint.git"
+  },
+  "author": "Brandon Myking",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonmyking/cutterspoint/issues"
+  },
+  "homepage": "https://github.com/brandonmyking/cutterspoint#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "bootstrap-social": "^5.1.1",
+    "jquery": "^3.4.0",
+    "popper": "^1.0.1",
+    "popper.js": "^1.15.0"
+  }
+}
