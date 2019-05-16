@@ -8,6 +8,7 @@ body {
     justify-content: center;
 }
 
+
 .jumbotron {
     background: url("https://www.cutterspoint.com/media/dynamic/heroes/94_Cutters%20Point-2.jpg");
     background-size: cover;
@@ -213,6 +214,7 @@ footer {
     list-style: none;
     justify-content: flex-end;
     flex-wrap: wrap;
+    padding-top: 20px;
 }
 
 .footer-link {
@@ -220,11 +222,11 @@ footer {
     text-transform: uppercase;
     padding: 10px;
     font-size: 100%;
-    border: 3px solid transparent;
+    border: 1px solid transparent;
 }
 
 .footer-link:hover {
-    border: 3px solid white;
+    border: 1px solid white;
     color: white;
     opacity: 0.70;
 }
